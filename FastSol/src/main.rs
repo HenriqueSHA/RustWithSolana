@@ -10,6 +10,8 @@ fn main(){
     loop {
         println!("\n--= Solana CLI =--");
         println!("1. Ver saldo da carteira");
+        println!("2. Solicitar airdrop");
+        println!("3. Efetuar uma transferência");
         println!("0. Sair");
         println!("Escolha uma das opções acima: ");
         println!("");
