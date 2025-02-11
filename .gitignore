@@ -3,3 +3,9 @@ FastSol/Cargo.lock
 
 AddSol/target/
 AddSol/Cargo.lock
+
+Commerce/target/
+Commerce/Cargo.lock
+
+TestObj/target/
+TestObj/Cargo.lock
