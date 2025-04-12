@@ -1,0 +1,17 @@
+# Ignora diretórios de builds (em qualquer lugar do projeto)
+**/target/
+
+# Ignora arquivos de log e temporários
+*.log
+*.swp
+
+# Ignora configurações de IDEs e editores
+.idea/
+.vscode/
+
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora o Cargo.lock (se for um binário de biblioteca compartilhada)
+Cargo.lock
