@@ -1,3 +1,4 @@
+
 # Ignora diretórios de builds (em qualquer lugar do projeto)
 **/target/
 
@@ -15,3 +16,4 @@ Thumbs.db
 
 # Ignora o Cargo.lock (se for um binário de biblioteca compartilhada)
 Cargo.lock
+
